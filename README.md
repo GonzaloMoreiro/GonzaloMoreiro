@@ -9,14 +9,14 @@ Actualmente sigo perfeccionando mis habilidades en el bootcamp de Henry.
 
 ---
 
-### 🧔‍♂️ About Me / Sobre mí
+🧔‍♂️ About Me / Sobre mí
+Soy un desarrollador orientado al backend, apasionado por construir APIs robustas, escalables y fáciles de mantener. Disfruto trabajar con arquitectura limpia, modularizar servicios, mejorar controladores y asegurar que cada parte del sistema tenga un propósito claro.
 
-Soy un desarrollador apasionado por el backend y la construcción de APIs sólidas, mantenibles y bien estructuradas.  
-Me gusta trabajar con patrones limpios, organizar controladores, modularizar servicios y optimizar cada parte del proyecto.
+💡 Me motiva entender cómo funciona todo por dentro, optimizar procesos y aplicar patrones que hagan que el código sea más simple, predecible y profesional.
+🚀 Actualmente estoy profundizando en TypeScript, Node.js/NestJS, Docker, despliegues en la nube y buenas prácticas de arquitectura backend.
+🤝 Me gusta trabajar en equipo, compartir ideas, aprender de los demás y afrontar desafíos reales que requieran soluciones sólidas y bien pensadas.
 
-💡 Siempre estoy investigando nuevas tecnologías y formas de mejorar mi código.  
-🚀 Actualmente sigo perfeccionándome en **TypeScript, NestJS, Docker, despliegues y arquitectura backend**.  
-🤝 Disfruto colaborar, aprender del equipo y ayudar a resolver problemas reales con buenas prácticas.
+📚 Además, estoy en constante aprendizaje: cada proyecto es una oportunidad para escribir mejor código, automatizar tareas, mejorar la performance y seguir evolucionando como desarrollador.
 
 ---
 
@@ -70,4 +70,4 @@ Me gusta trabajar con patrones limpios, organizar controladores, modularizar ser
 
 ---
 
-✨ _Gracias por visitar mi perfil. Estoy abierto a colaborar en proyectos, aprender y aportar valor a nuevos desafíos._
+✨ Gracias por visitar mi perfil. Estoy abierto a sumarme a nuevos proyectos, aportar valor desde el primer día y seguir creciendo profesionalmente junto a equipos comprometidos.
