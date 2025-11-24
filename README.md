@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./1763754234175.jpeg" alt="LinkedIn Banner" />
+</p>
+
+
 ## Hi there 👋  
 Soy **Gonzalo Moreiro**, Full Stack Developer orientado al desarrollo backend con TypeScript, Node.js y bases de datos SQL/NoSQL. Me gusta construir APIs limpias, organizadas y escalables, y estoy siempre aprendiendo nuevas tecnologías para mejorar mis proyectos.  
 Actualmente sigo perfeccionando mis habilidades en el bootcamp de Henry.
