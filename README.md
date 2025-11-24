@@ -9,7 +9,7 @@ Actualmente sigo perfeccionando mis habilidades en el bootcamp de Henry.
 
 ---
 
-🧔‍♂️ About Me / Sobre mí
+## 🧔‍♂️ Sobre mí / About Me
 Soy un desarrollador orientado al backend, apasionado por construir APIs robustas, escalables y fáciles de mantener. Disfruto trabajar con arquitectura limpia, modularizar servicios, mejorar controladores y asegurar que cada parte del sistema tenga un propósito claro.
 
 💡 Me motiva entender cómo funciona todo por dentro, optimizar procesos y aplicar patrones que hagan que el código sea más simple, predecible y profesional.
