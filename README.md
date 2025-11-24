@@ -4,11 +4,10 @@ Actualmente sigo perfeccionando mis habilidades en el bootcamp de Henry.
 
 ---
 
-### 🚀 Tech Skills
-- **Backend:** Node.js, Express, TypeScript, Sequelize, PostgreSQL, MongoDB  
-- **Frontend:** React, Redux Toolkit (aprendiendo más), JavaScript, Vite  
-- **Tools & DevOps:** Git, GitHub, Docker (básico), Postman  
-- **Other:** Arquitectura MVC, REST API, Clean Controllers
+### 🧠 Lenguajes & Bases de Datos
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
 ---
 
