@@ -62,21 +62,6 @@ Me gusta trabajar con patrones limpios, organizar controladores, modularizar ser
 
 ---
 
-### 🛠️ Proyecto destacado: **DevCore**
-
-<p align="center">
-  <!-- Reemplazar ruta/URL de imagen -->
-  <img src="./jzvh9rej4ehh8wparx5j.jpg" alt="DevCore Project" width="10%" />
-</p>
-Plataforma web de cursos online que desarrollé con mi equipo como proyecto final en Henry.
-
-**Funciones principales:**
-- Sistema de usuarios con autenticación  
-- Panel de cursos y gestión de contenido  
-- Backend modular con controladores limpios  
-- Integración de base de datos y manejo de roles  
-
----
 
 ### 📫 Contacto
 
