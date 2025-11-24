@@ -1,18 +1,12 @@
 ## Hi there 👋
 
-<p align="justify">
-  <a href="https://github.com/GonzaloMoreiro/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=GonzaloMoreiro&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
-    />
-  </a>
-   <a href="https://github.com/GonzaloMoreiro/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloMoreiro&layout=compact&theme=radical" />
-  </a>  
-</p>
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GonzaloMoreiro&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloMoreiro&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 <!--
 **GonzaloMoreiro/GonzaloMoreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
