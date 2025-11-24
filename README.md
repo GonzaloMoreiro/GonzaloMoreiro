@@ -9,6 +9,17 @@ Actualmente sigo perfeccionando mis habilidades en el bootcamp de Henry.
 
 ---
 
+### 🧔‍♂️ About Me / Sobre mí
+
+Soy un desarrollador apasionado por el backend y la construcción de APIs sólidas, mantenibles y bien estructuradas.  
+Me gusta trabajar con patrones limpios, organizar controladores, modularizar servicios y optimizar cada parte del proyecto.
+
+💡 Siempre estoy investigando nuevas tecnologías y formas de mejorar mi código.  
+🚀 Actualmente sigo perfeccionándome en **TypeScript, NestJS, Docker, despliegues y arquitectura backend**.  
+🤝 Disfruto colaborar, aprender del equipo y ayudar a resolver problemas reales con buenas prácticas.
+
+---
+
 ### 🧠 Lenguajes / Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -52,6 +63,11 @@ Actualmente sigo perfeccionando mis habilidades en el bootcamp de Henry.
 ---
 
 ### 🛠️ Proyecto destacado: **DevCore**
+
+<p align="center">
+  <!-- Reemplazar ruta/URL de imagen -->
+  <img src="./jzvh9rej4ehh8wparx5j.jpg" alt="DevCore Project" width="80%" />
+</p>
 Plataforma web de cursos online que desarrollé con mi equipo como proyecto final en Henry.
 
 **Funciones principales:**
