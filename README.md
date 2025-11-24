@@ -66,7 +66,7 @@ Me gusta trabajar con patrones limpios, organizar controladores, modularizar ser
 
 <p align="center">
   <!-- Reemplazar ruta/URL de imagen -->
-  <img src="./jzvh9rej4ehh8wparx5j.jpg" alt="DevCore Project" width="80%" />
+  <img src="./jzvh9rej4ehh8wparx5j.jpg" alt="DevCore Project" width="650" />
 </p>
 Plataforma web de cursos online que desarrollé con mi equipo como proyecto final en Henry.
 
