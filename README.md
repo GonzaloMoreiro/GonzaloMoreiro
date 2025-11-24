@@ -9,6 +9,25 @@ Actualmente sigo perfeccionando mis habilidades en el bootcamp de Henry.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
+### ⚙️ Backend
+![Express](https://img.shields.io/badge/-Express-222222?style=flat&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-222222?style=flat&logo=nestjs&logoColor=E0234E)
+![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/-Vite-222222?style=flat&logo=vite)
+![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&logo=tailwindcss&logoColor=06B6D4)
+
+### 🛠️ Herramientas
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
+
+
+
 ---
 
 ### 📊 Profile Stats
