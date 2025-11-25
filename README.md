@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./1763754234175.jpeg" alt="LinkedIn Banner" />
+  <img src="https://res.cloudinary.com/dclx6hdpk/image/upload/v1764031293/1763754234175_l0hado.jpg" alt="LinkedIn Banner" />
 </p>
 
 
